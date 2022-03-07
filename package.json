@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "typescript": "^4.6.2"
+  },
+  "name": "vue-study-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Juzdalua/Vue-Study-Backend.git",
+  "author": "Juzdalua <bearwcw@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/app.ts"
+  }
+}
